@@ -7,7 +7,7 @@ Java based android contact manager application.
 
 ## :camera: Screenshots
 
-<img src="screenshots/1.png" height ="100%" width="97%"></img>
+<img src="screenshots/1.png" height ="33%" width="33%"></img>
 <img src="screenshots/2.png" height ="33%" width="32%"></img>
 <img src="screenshots/3.png" height ="33%" width="32%"></img>
 <img src="screenshots/4.png" height ="33%" width="32%"></img>
